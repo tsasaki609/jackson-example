@@ -1,0 +1,9 @@
+{
+  "bar": "value000",
+  "baz": {
+    "prop000": "value111"
+  },
+  "prop": {
+    "dynamicKey123": "value222"
+  }
+}
